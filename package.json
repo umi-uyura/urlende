@@ -1,0 +1,18 @@
+{
+  "name": "urlende",
+  "version": "0.0.1",
+  "description": "URL encode/decode tool",
+  "main": "urlende.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Umi Uyura",
+  "license": "MIT",
+  "preferGlobal": true,
+  "bin": {
+    "urlende": "bin/urlende"
+  },
+  "dependencies": {
+    "commander": "^2.2.0"
+  }
+}
